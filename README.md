@@ -1,7 +1,7 @@
 ## 💫 About Me:
 👋 Hi, I’m @Gurleenbaidwan <br>🌟 React Developer | JavaScript Enthusiast<br>🌱 I’m currently learning Web Development<br>💻 Passionate about crafting dynamic, user-friendly web applications with React.<br>📚 Lifelong learner, currently diving deeper into Next.js and TypeScript.
 
-![Profile views][![](https://visitcount.itsvg.in/api?id=Gurleenbaidwan&label=Profile%20views&color=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Gurleenbaidwan&label=Profile%20views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurleen-kaur-3521a7228) 
